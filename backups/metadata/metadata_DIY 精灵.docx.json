@@ -1,0 +1,54 @@
+{
+    "original_file_name": "DIY \u7cbe\u7075.docx",
+    "total_chunks": 12,
+    "chunks": [
+        {
+            "chunk_hash": "eaa5ba5b",
+            "repo_path": "backups/full_backup/chunk_eaa5ba5b.bin"
+        },
+        {
+            "chunk_hash": "5d7f3d0e",
+            "repo_path": "backups/full_backup/chunk_5d7f3d0e.bin"
+        },
+        {
+            "chunk_hash": "7c132fdd",
+            "repo_path": "backups/full_backup/chunk_7c132fdd.bin"
+        },
+        {
+            "chunk_hash": "d7782175",
+            "repo_path": "backups/full_backup/chunk_d7782175.bin"
+        },
+        {
+            "chunk_hash": "3767a4b3",
+            "repo_path": "backups/full_backup/chunk_3767a4b3.bin"
+        },
+        {
+            "chunk_hash": "0e297d16",
+            "repo_path": "backups/full_backup/chunk_0e297d16.bin"
+        },
+        {
+            "chunk_hash": "4c6ef67e",
+            "repo_path": "backups/full_backup/chunk_4c6ef67e.bin"
+        },
+        {
+            "chunk_hash": "19e273f0",
+            "repo_path": "backups/full_backup/chunk_19e273f0.bin"
+        },
+        {
+            "chunk_hash": "d225e54d",
+            "repo_path": "backups/full_backup/chunk_d225e54d.bin"
+        },
+        {
+            "chunk_hash": "d2e99e3d",
+            "repo_path": "backups/full_backup/chunk_d2e99e3d.bin"
+        },
+        {
+            "chunk_hash": "59a1a58c",
+            "repo_path": "backups/full_backup/chunk_59a1a58c.bin"
+        },
+        {
+            "chunk_hash": "8f5be6f0",
+            "repo_path": "backups/full_backup/chunk_8f5be6f0.bin"
+        }
+    ]
+}
