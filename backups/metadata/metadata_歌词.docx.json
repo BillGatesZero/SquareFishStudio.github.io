@@ -1,0 +1,22 @@
+{
+    "original_file_name": "\u6b4c\u8bcd.docx",
+    "total_chunks": 4,
+    "chunks": [
+        {
+            "chunk_hash": "ae18091a",
+            "repo_path": "backups/full_backup/chunk_ae18091a.bin"
+        },
+        {
+            "chunk_hash": "c8cd1aa3",
+            "repo_path": "backups/full_backup/chunk_c8cd1aa3.bin"
+        },
+        {
+            "chunk_hash": "b8a3f08a",
+            "repo_path": "backups/full_backup/chunk_b8a3f08a.bin"
+        },
+        {
+            "chunk_hash": "172820ee",
+            "repo_path": "backups/full_backup/chunk_172820ee.bin"
+        }
+    ]
+}
